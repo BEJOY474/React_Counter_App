@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #585555;
+}
+
+.setContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.btn1 {
+  padding: 5px;
+  background-color: azure;
+  width: 50px;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin: 6px;
+}
+.btn2 {
+  padding: 5px;
+  background-color: rgb(30, 60, 192);
+  width: 50px;
+  border: 2px solid red;
+  color: #fff;
+  border-radius: 10px;
+  margin: 6px;
+}
+.btn3 {
+  padding: 5px;
+  background-color: azure;
+  width: 50px;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin: 6px;
+}
